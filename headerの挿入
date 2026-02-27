@@ -1,0 +1,27 @@
+headerの挿入。cssの追加
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   img/img/about.jpg
+#	new file:   img/img/about.jpg:Zone.Identifier
+#	new file:   img/img/bicycle1.jpg
+#	new file:   img/img/bicycle1.jpg:Zone.Identifier
+#	new file:   img/img/bicycle2.jpg
+#	new file:   img/img/bicycle2.jpg:Zone.Identifier
+#	new file:   img/img/bicycle3.jpg
+#	new file:   img/img/bicycle3.jpg:Zone.Identifier
+#	new file:   img/img/favicon.ico
+#	new file:   img/img/favicon.ico:Zone.Identifier
+#	new file:   img/img/logo.svg
+#	new file:   img/img/logo.svg:Zone.Identifier
+#	new file:   img/img/mainvisual.jpg
+#	new file:   img/img/mainvisual.jpg:Zone.Identifier
+#	modified:   index.css
+#	modified:   index.php
+#	new file:   style.css
