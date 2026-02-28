@@ -1,8 +1,36 @@
 .header {
-    max-width: 1230px;
-    height: auto;
-    padding: 10px;
+    max-width: auto;
+    height: 150px;
     display: flex;
     justify-content: space-between;
-    background-color: aqua;
+    align-items: center;
+    margin: 0 50px 0 50px;
+}
+
+.header h1 {
+    color: white;
+    background-color: black;
+    padding: 5px 20px 5px 20px;
+    margin-left: 40px;
+}
+
+.header__link ul {
+    display: flex;
+    margin: 0;
+    padding: 5px;
+
+}
+
+.header__link li {
+    padding-left: 40px;
+}
+
+.header__link li:last-child {
+    margin-right: 30px;
+}
+
+.header__link a {
+    text-decoration: none;
+    color: #333;
+    
 }
